@@ -1,12 +1,15 @@
 dotenv==0.9.9
 greenlet==3.2.4
+mysql-connector-python==9.5.0
 numpy==2.3.4
 pandas==2.3.3
 psycopg2-binary==2.9.11
-PySimpleGUI==5.0.8.3
+pyasn1==0.6.1
+PySimpleGUI==5.0.10
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
 pytz==2025.2
+rsa==4.9.1
 six==1.17.0
 SQLAlchemy==2.0.44
 typing_extensions==4.15.0

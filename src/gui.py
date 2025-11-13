@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 import json
-from db.connection import session 
+from src.db.connection import session 
 from sqlalchemy import text
 from pandas import DataFrame 
 
@@ -27,7 +27,8 @@ def execute_sql_query(sql_query: str, params_json: str):
         result_proxy = session.execute(query, params_dict)
         
         # Se for um INSERT, UPDATE, ou DELETE, precisamos comitar
-        if query.string.strip().lower().startswith(('insert', 'update', 'delete', 'create')):
+        # DEPOIS (Corrigido)
+        if sql_query.strip().lower().startswith(('insert', 'update', 'delete', 'create', 'truncate', 'set')):
             session.commit()
             return f"Comando executado com sucesso. {result_proxy.rowcount} linhas afetadas."
         
@@ -65,7 +66,7 @@ layout = [
     [sg.Button('Executar', bind_return_key=True), sg.Button('Sair')],
     
     [sg.Text('Saída:')],
-    [sg.Multiline(size=(100, 20), key='-OUTPUT-', font=('Courier New', 10), disabled=True, text_color='white')]
+    [sg.Multiline(size=(100, 20), key='-OUTPUT-', font=('Courier New', 10), disabled=True, text_color='black')]
 ]
 
 # 2. Criar a Janela

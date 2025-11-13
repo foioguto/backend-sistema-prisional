@@ -45,20 +45,22 @@ if __name__ == "__main__":
     print("--- INICIANDO CARGA DE DADOS ---")
     
     # Nível 1 (Não dependem de ninguém)
-    load_csv_to_db('Bloco.csv', 'Bloco')
-    load_csv_to_db('Funcionario.csv', 'Funcionario')
-    load_csv_to_db('Visitante.csv', 'Visitante')
-    load_csv_to_db('Atividade.csv', 'Atividade')
+    load_csv_to_db('data/bloco.csv', 'BLOCO')
+    load_csv_to_db('data/funcionario.csv', 'FUNCIONARIO')
+    load_csv_to_db('data/visitante.csv', 'VISITANTE')
+    load_csv_to_db('data/atividade.csv', 'ATIVIDADE')
     
     # Nível 2 (Dependem do Nível 1)
-    load_csv_to_db('Cela.csv', 'Cela') # Depende de Bloco
+    load_csv_to_db('data/cela.csv', 'CELA') # Depende de Bloco
     
     # Nível 3 (Dependem dos níveis anteriores)
-    load_csv_to_db('Preso.csv', 'Preso') # Depende de Cela
+    # Atenção: O CSV 'preso.csv' carrega na tabela 'DETENTO'
+    load_csv_to_db('data/preso.csv', 'DETENTO') # Depende de Cela
     
     # Nível 4 (Dependem de Preso, Funcionario, Visitante, Atividade)
-    load_csv_to_db('Ocorrencia.csv', 'Ocorrencia') # Depende de Preso, Funcionario
-    load_csv_to_db('Visita.csv', 'Visita')       # Depende de Preso, Visitante
-    load_csv_to_db('Participacao.csv', 'Participacao') # Depende de Preso, Atividade
+    load_csv_to_db('data/ocorrencia.csv', 'OCORRENCIA') # Depende de Preso, Funcionario
+    load_csv_to_db('data/visita.csv', 'VISITA')       # Depende de Preso, Visitante
+    load_csv_to_db('data/participacao.csv', 'PARTICIPACAO') # Depende de Preso, Atividade
     
     print("--- CARGA DE DADOS FINALIZADA ---")
+
