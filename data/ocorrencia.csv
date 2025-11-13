@@ -2,3 +2,100 @@ CodOcorrencia,Descricao,DataHora,Tipo,MatriculaPreso,MatriculaFunc
 1,Detento iniciou briga no pátio.,2024-05-10 15:30:00,Grave,10002,101
 2,Material não autorizado encontrado na cela A-01.,2024-06-15 10:00:00,Segurança,10001,101
 3,Desacato a funcionário durante a contagem.,2024-07-01 08:05:00,Grave,10003,103
+4,Preso se recusou a participar da atividade laboral.,2024-07-12 09:20:00,Conduta,10004,105
+5,Briga entre dois detentos durante o almoço.,2023-11-03 12:45:00,Grave,10005,101
+6,Objetos cortantes encontrados em revista surpresa.,2024-02-18 07:50:00,Segurança,10006,108
+7,Discussão verbal com agente penitenciário.,2024-04-09 17:15:00,Conduta,10007,104
+8,Tentativa de fuga frustrada no Bloco C.,2023-09-21 03:30:00,Grave,10008,110
+9,Detento flagrado usando celular.,2024-03-15 19:05:00,Segurança,10009,107
+10,Recusa em retornar à cela após o banho de sol.,2024-01-10 17:55:00,Conduta,10010,111
+11,Preso colaborou em tentativa de fuga.,2023-12-07 23:10:00,Grave,10011,102
+12,Ofensa verbal a outro preso.,2024-05-18 11:25:00,Conduta,10012,115
+13,Encontrado bilhete com conteúdo suspeito.,2024-08-01 13:40:00,Segurança,10013,118
+14,Preso feriu outro detento com arma improvisada.,2024-03-30 20:50:00,Grave,10014,106
+15,Desobediência a ordem de revista.,2024-09-05 16:30:00,Conduta,10015,109
+16,Fuga parcial do bloco B controlada a tempo.,2023-10-17 02:10:00,Grave,10016,120
+17,Detento se negou a receber refeição.,2024-04-12 12:30:00,Comportamental,10017,105
+18,Briga no refeitório com ferimentos leves.,2023-11-29 13:10:00,Grave,10018,101
+19,Isqueiro encontrado em revista surpresa.,2024-06-03 09:00:00,Segurança,10019,104
+20,Ofensas durante atividade religiosa.,2024-02-20 18:45:00,Conduta,10020,116
+21,Preso destruiu parte do colchão.,2024-03-09 07:25:00,Comportamental,10021,103
+22,Detento tentou intimidar outro preso.,2023-09-12 14:15:00,Conduta,10022,119
+23,Recusa em participar de atividade educacional.,2024-01-28 08:20:00,Comportamental,10023,117
+24,Substância ilícita apreendida em cela B-03.,2024-08-19 22:40:00,Segurança,10024,108
+25,Confusão durante contagem noturna.,2023-12-10 20:00:00,Grave,10025,111
+26,Detento injuriou psicóloga durante atendimento.,2024-04-25 15:35:00,Conduta,10026,114
+27,Relato de tentativa de agressão a funcionário.,2024-07-30 19:50:00,Grave,10027,106
+28,Preso se envolveu em troca de bilhetes suspeitos.,2024-02-09 11:00:00,Segurança,10028,104
+29,Briga entre grupos rivais controlada rapidamente.,2023-10-28 16:55:00,Grave,10029,101
+30,Preso tentou esconder objeto de metal.,2024-06-22 09:10:00,Segurança,10030,108
+31,Preso apresentou comportamento agressivo.,2024-03-04 14:25:00,Comportamental,10031,105
+32,Detento se recusou a sair para banho de sol.,2024-01-13 08:45:00,Conduta,10032,115
+33,Desacato a supervisora durante inspeção.,2024-05-16 10:20:00,Grave,10033,102
+34,Encontrado aparelho celular na cela C-02.,2024-08-03 07:10:00,Segurança,10034,103
+35,Detento tentou abrir grade com ferramenta.,2023-11-19 22:25:00,Grave,10035,120
+36,Ofensa verbal em atividade educativa.,2024-02-26 15:30:00,Conduta,10036,109
+37,Preso destruiu livro da biblioteca.,2024-04-14 11:40:00,Comportamental,10037,114
+38,Material metálico escondido em roupa de cama.,2024-09-11 17:50:00,Segurança,10038,107
+39,Preso iniciou discussão com colega de cela.,2024-07-07 19:15:00,Conduta,10039,111
+40,Detento feriu agente com empurrão.,2023-12-25 23:30:00,Grave,10040,101
+41,Briga leve na área de lazer.,2024-03-01 14:00:00,Conduta,10041,116
+42,Tentativa de fuga frustrada durante chuva.,2023-09-06 04:15:00,Grave,10042,120
+43,Substância suspeita encontrada na cela D-01.,2024-06-27 13:50:00,Segurança,10043,108
+44,Detento se recusou a ser transferido.,2024-05-02 09:35:00,Conduta,10044,119
+45,Ofensa a outro detento durante refeição.,2024-01-24 12:20:00,Comportamental,10045,104
+46,Briga generalizada controlada por agentes.,2023-10-19 21:30:00,Grave,10046,101
+47,Preso feriu colega com cabo de vassoura.,2024-08-09 14:10:00,Grave,10047,107
+48,Desacato a funcionário durante inspeção.,2024-04-06 16:25:00,Conduta,10048,103
+49,Material cortante encontrado em colchão.,2024-03-11 07:30:00,Segurança,10049,108
+50,Detento recusou atendimento médico.,2024-02-01 10:00:00,Comportamental,10050,114
+51,Preso destruiu luminária da cela.,2024-05-18 19:40:00,Comportamental,10051,109
+52,Discussão entre detentos de blocos diferentes.,2024-07-29 18:25:00,Conduta,10052,105
+53,Preso feriu outro durante atividade esportiva.,2023-11-23 09:45:00,Grave,10053,101
+54,Encontrado bilhete com plano de fuga.,2024-09-10 11:30:00,Segurança,10054,120
+55,Recusa em participar de revista coletiva.,2024-03-19 08:55:00,Conduta,10055,111
+56,Preso tentou intimidar psicóloga.,2024-02-17 17:15:00,Conduta,10056,114
+57,Objetos suspeitos localizados em cela F-02.,2024-06-05 10:50:00,Segurança,10057,108
+58,Detento ameaçou funcionário.,2023-12-22 15:20:00,Grave,10058,101
+59,Briga com resultado de ferimentos leves.,2024-07-04 16:35:00,Grave,10059,107
+60,Ofensa verbal a agente durante patrulha.,2024-05-30 09:25:00,Conduta,10060,103
+61,Preso tentou danificar grade da cela.,2024-02-08 20:00:00,Segurança,10061,120
+62,Confusão durante culto religioso.,2024-01-27 18:40:00,Conduta,10062,104
+63,Desacato a supervisora em reunião disciplinar.,2024-03-16 09:50:00,Conduta,10063,102
+64,Preso tentou esconder alimento estragado.,2024-04-10 13:35:00,Comportamental,10064,117
+65,Briga por disputa de espaço na cela.,2024-08-02 22:15:00,Grave,10065,101
+66,Material eletrônico apreendido.,2024-06-09 10:10:00,Segurança,10066,108
+67,Recusa em colaborar com inspeção médica.,2024-02-12 11:20:00,Comportamental,10067,114
+68,Preso destruiu roupa do uniforme.,2024-05-05 12:45:00,Comportamental,10068,109
+69,Tentativa de fuga por duto de ventilação.,2023-10-30 02:35:00,Grave,10069,120
+70,Detento se envolveu em troca de ameaças.,2024-07-17 21:05:00,Conduta,10070,106
+71,Substância entorpecente encontrada.,2024-09-20 15:25:00,Segurança,10071,108
+72,Preso feriu agente em empurrão.,2024-03-07 14:30:00,Grave,10072,101
+73,Desacato a autoridade religiosa.,2024-01-09 08:15:00,Conduta,10073,104
+74,Discussão acalorada em oficina de marcenaria.,2024-05-27 17:50:00,Conduta,10074,105
+75,Preso recusou alimentação.,2024-06-16 11:10:00,Comportamental,10075,114
+76,Briga entre detentos de blocos distintos.,2023-11-12 16:20:00,Grave,10076,101
+77,Objeto cortante encontrado em revista.,2024-02-25 09:05:00,Segurança,10077,108
+78,Preso ofendeu outro durante atividade.,2024-04-08 13:25:00,Conduta,10078,111
+79,Detento destruiu equipamento de academia.,2024-03-18 14:55:00,Comportamental,10079,116
+80,Preso tentou sair sem autorização.,2024-05-13 09:00:00,Conduta,10080,103
+81,Isqueiro encontrado em colchão.,2024-06-25 20:15:00,Segurança,10081,108
+82,Desacato a funcionária administrativa.,2024-01-16 10:35:00,Conduta,10082,102
+83,Preso feriu outro em discussão religiosa.,2024-07-10 19:30:00,Grave,10083,106
+84,Briga generalizada na hora do jantar.,2023-12-05 18:50:00,Grave,10084,101
+85,Preso destruiu mesa do refeitório.,2024-02-21 13:00:00,Comportamental,10085,109
+86,Material eletrônico escondido em colchão.,2024-06-11 10:40:00,Segurança,10086,108
+87,Preso ameaçou agente durante contagem.,2023-11-25 22:10:00,Grave,10087,120
+88,Ofensa verbal em consulta médica.,2024-05-04 16:30:00,Conduta,10088,114
+89,Briga leve em oficina de pintura.,2024-04-18 14:15:00,Conduta,10089,105
+90,Preso recusou comparecer ao psicólogo.,2024-02-10 09:10:00,Comportamental,10090,114
+91,Desacato em área comum.,2024-03-28 11:20:00,Conduta,10091,102
+92,Encontrado ferro pontiagudo em cela.,2024-09-07 08:30:00,Segurança,10092,108
+93,Briga durante recreação matinal.,2024-07-22 10:25:00,Grave,10093,101
+94,Preso tentou esconder faca improvisada.,2023-10-08 21:00:00,Segurança,10094,107
+95,Ofensa a enfermeira durante atendimento.,2024-01-05 17:15:00,Conduta,10095,114
+96,Desordem no pátio do bloco C.,2024-06-14 12:05:00,Conduta,10096,103
+97,Material suspeito encontrado em visita.,2024-08-05 15:45:00,Segurança,10097,108
+98,Preso atacou outro com colher de alumínio.,2024-03-23 13:35:00,Grave,10098,101
+99,Recusa em participar de oficina de leitura.,2024-02-14 08:50:00,Comportamental,10099,117
+100,Preso feriu colega com caneta.,2024-05-22 16:25:00,Grave,10100,107

@@ -3,3 +3,99 @@ CodAtividade,Nome,Tipo,CargaHoraria
 2,Oficina de Marcenaria,Trabalho,200
 3,Ensino Médio (EJA),Estudo,800
 4,Culto Religioso,Religioso,10
+5,Curso de História,Estudo,451
+6,Manutenção Predial,Trabalho,587
+7,Futebol,Esporte,312
+8,Leitura,Religioso,304
+9,Coral,Cultura,225
+10,Oficina de Pintura,Trabalho,341
+11,Curso de Inglês,Estudo,712
+12,Dança,Cultura,144
+13,Musculação,Esporte,523
+14,Estudo Bíblico,Religioso,59
+15,Alfabetização,Estudo,367
+16,Costura,Trabalho,114
+17,Pintura Artística,Cultura,274
+18,Celebração,Religioso,88
+19,Curso de Matemática,Estudo,693
+20,Oficina de Jardinagem,Trabalho,195
+21,Teatro,Cultura,167
+22,Leitura Espiritual,Religioso,36
+23,Vôlei,Esporte,192
+24,Curso de Informática,Estudo,452
+25,Fabricação de Tijolos,Trabalho,720
+26,Alongamento,Esporte,88
+27,Curso de História,Estudo,256
+28,Culto Religioso,Religioso,42
+29,Curso de Inglês,Estudo,640
+30,Oficina de Pintura,Trabalho,360
+31,Leitura,Cultura,405
+32,Musculação,Esporte,288
+33,Curso de Matemática,Estudo,410
+34,Celebração,Religioso,64
+35,Teatro,Cultura,232
+36,Curso de História,Estudo,504
+37,Manutenção Predial,Trabalho,220
+38,Futebol,Esporte,192
+39,Leitura Espiritual,Religioso,55
+40,Coral,Cultura,145
+41,Oficina de Jardinagem,Trabalho,260
+42,Curso de Informática,Estudo,380
+43,Oficina de Pintura,Trabalho,430
+44,Dança,Cultura,295
+45,Curso de Inglês,Estudo,502
+46,Costura,Trabalho,150
+47,Curso de Matemática,Estudo,280
+48,Estudo Bíblico,Religioso,73
+49,Musculação,Esporte,350
+50,Teatro,Cultura,256
+51,Curso de História,Estudo,422
+52,Oficina de Marcenaria,Trabalho,440
+53,Futebol,Esporte,240
+54,Leitura Espiritual,Religioso,58
+55,Coral,Cultura,312
+56,Curso de Informática,Estudo,498
+57,Oficina de Jardinagem,Trabalho,275
+58,Curso de Inglês,Estudo,390
+59,Celebração,Religioso,46
+60,Leitura,Cultura,310
+61,Musculação,Esporte,210
+62,Curso de Matemática,Estudo,604
+63,Costura,Trabalho,196
+64,Curso de História,Estudo,530
+65,Oficina de Pintura,Trabalho,312
+66,Teatro,Cultura,278
+67,Curso de Informática,Estudo,340
+68,Oficina de Jardinagem,Trabalho,480
+69,Leitura Espiritual,Religioso,33
+70,Curso de Inglês,Estudo,376
+71,Futebol,Esporte,168
+72,Coral,Cultura,190
+73,Curso de História,Estudo,468
+74,Manutenção Predial,Trabalho,356
+75,Curso de Matemática,Estudo,582
+76,Estudo Bíblico,Religioso,77
+77,Oficina de Pintura,Trabalho,212
+78,Dança,Cultura,326
+79,Musculação,Esporte,249
+80,Curso de Informática,Estudo,422
+81,Costura,Trabalho,132
+82,Curso de História,Estudo,518
+83,Oficina de Jardinagem,Trabalho,276
+84,Leitura,Cultura,330
+85,Celebração,Religioso,69
+86,Vôlei,Esporte,240
+87,Curso de Inglês,Estudo,492
+88,Teatro,Cultura,316
+89,Curso de Matemática,Estudo,682
+90,Oficina de Pintura,Trabalho,326
+91,Leitura Espiritual,Religioso,52
+92,Curso de Informática,Estudo,378
+93,Coral,Cultura,298
+94,Manutenção Predial,Trabalho,470
+95,Futebol,Esporte,266
+96,Curso de História,Estudo,506
+97,Oficina de Jardinagem,Trabalho,196
+98,Curso de Inglês,Estudo,524
+99,Dança,Cultura,358
+100,Estudo Bíblico,Religioso,85
