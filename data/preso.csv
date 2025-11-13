@@ -1,0 +1,5 @@
+Matricula,Nome,CPF,DataNascimento,DataPrisao,Regime,CodCela
+10001,João Pereira,12345678901,1990-01-15,2023-05-20,Fechado,10
+10002,Roberto Alves,23456789012,1985-11-30,2021-02-10,Fechado,10
+10003,Marcos Vinicius,34567890123,1995-07-02,2024-01-05,Semiaberto,12
+10004,Paulo Lima,45678901234,2000-03-25,2024-03-10,Provisório,13

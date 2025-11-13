@@ -1,0 +1,5 @@
+CodVisita,DataVisita,HoraInicio,HoraFim,Status,MatriculaPreso,CodVisitante
+1,2024-10-20,14:00,15:00,Realizada,10001,5001
+2,2024-10-20,14:00,15:00,Realizada,10003,5002
+3,2024-10-27,10:00,11:00,Agendada,10001,5001
+4,2024-11-01,10:00,,Cancelada,10002,5003
